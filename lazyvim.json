@@ -1,0 +1,13 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.codeium",
+    "lazyvim.plugins.extras.formatting.prettier",
+    "lazyvim.plugins.extras.lang.git",
+    "lazyvim.plugins.extras.linting.eslint",
+    "lazyvim.plugins.extras.ui.mini-animate"
+  ],
+  "news": {
+    "NEWS.md": "6520"
+  },
+  "version": 6
+}
