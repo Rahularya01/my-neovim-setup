@@ -20,6 +20,11 @@ return {
     },
   },
 
+  {
+    "mattn/emmet-vim",
+    event = "InsertEnter",
+  },
+
   -- change trouble config
   {
     "folke/trouble.nvim",
